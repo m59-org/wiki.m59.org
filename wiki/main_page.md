@@ -16,26 +16,26 @@ Meridian 59 was first launched in December 1995, making it the first commercial 
 Meridian 59 is based on old school '90s principles, characterized by hardcore PvP, open-world competition, and an avoidance of level, class, and treadmill systems. Rather, you will build your adventurer by exploring and playing with the skills and spells you like, growing your abilities independent of any artificial levels or classes. The unique fantasy world of Meridian 59 offers exploration, combat, and political drama.
 
 **Long-term Goals**
-- Continue expanding PvE content in Meridian 59
-- Continue balancing and encouraging PvP
-- Make the game as user friendly as possible (Tutorials, etc.)
+* Continue expanding PvE content in Meridian 59
+* Continue balancing and encouraging PvP
+* Make the game as user friendly as possible (Tutorials, etc.)
+
 **Current Focus**
-- 3-month challenge ladders offer a fresh start and a new economy, as well as temporarily altered gameplay
-- New content
--- Monsters
--- NPCs
--- Rooms
--- Lore
--- Items
--- Quests
+* 3-month challenge ladders offer a fresh start and a new economy, as well as temporarily altered gameplay
+* New content
+    - Monsters
+    - NPCs
+    - Rooms
+    - Lore
+    - Items
+    - Quests
+
 # Wiki Content Portals
 - Development Documentation
 - Gameplay Portal
+
 **Important Links**
-Open Meridian Project Homepage
-
-Open Meridian Project Forums
-
-Server/Tools/Old Client Project on Github
-
-New Ogre3d Client Project on Google Code
+* Open Meridian Project Homepage
+* Open Meridian Project Forums
+* Server/Tools/Old Client Project on Github
+* New Ogre3d Client Project on Google Code
