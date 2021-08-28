@@ -41,8 +41,8 @@ ___
 **Stats**
 Every starting adventurer begins with a combination of 200 stat points. Further stat points are gained as your character progresses and gains Enlightenment.
 
-| Stat	| Description |
-| --- | --- |
+| Stat | Description |
+| ---- | ----------- |
 | [Might](#) | A measure of physical strength and carrying capacity. |
 | [Intellect](#) | A measure of mental strength and learning capacity. |
 | [Stamina](#) | Tough adventurers can take more punishment and recover faster. |
