@@ -52,23 +52,25 @@ Every starting adventurer begins with a combination of 200 stat points. Further 
 | [Mysticism](#) | Every adventurer has a certain capability for magic and mana. |
 | [Aim](#) | A true aim will help attacks land on enemies. |
 
-Sample Builds
-Click Here To See Some Recommended Builds
+**Sample Builds**
 
-Skill & Spell Schools
+[Click Here To See Some Recommended Builds](#)
+
+**Skill & Spell Schools**
+
 There are fourteen major schools of abilities in Meridian 59. You may work your way up through them in any combination you choose, limited only in total sum by your character's Intellect. Smarter characters can learn more spells and skills total.
 
 Aside from the non-magical fighting abilities of the Weaponcraft school, the magical schools are named after, and powered by, their sponsored God. According to legend, the Gods were once great adventurers who became one with the source of all magic in order to save the world. Ever after, the pathways to power they formed remained open, allowing others to follow in their footsteps.
 
-
-Name	Primary Stat	Description
-Weaponcraft	Various	Based on Might, Stamina, Agility, and Aim, this is the school of physical combat.
-Kraanan	Stamina	The warrior god Kraanan offers a range of offensive and defensive buffs.
-Shal'ille	Mysticism	The goddess of goodness and light offers holy followers powers of healing and defense.
-Qor	Mysticism	The goddess of evil and darkness offers unholy followers murderous capabilities.
-Faren	Mysticism	The god of nature empowers his disciples with mastery over the elements.
-Riija	Intellect	Disciples of the trickster god employ illusions and stealth to great effect.
-Jala	Intellect	The goddess of Bards offers numerous magical songs that can both help and harm.
+| Name | Primary Stat | Description |
+| ---- | ------------ | ----------- |
+| [Weaponcraft](#) | Various | Based on Might, Stamina, Agility, and Aim, this is the school of physical combat. |
+| [Kraanan](#) | [Stamina](#) | The warrior god Kraanan offers a range of offensive and defensive buffs. |
+| [Shal'ille](#) | [Mysticism](#) | The goddess of goodness and light offers holy followers powers of healing and defense. |
+| [Qor](#) | [Mysticism](#) | The goddess of evil and darkness offers unholy followers murderous capabilities. |
+| [Faren](#) | [Mysticism](#) | The god of nature empowers his disciples with mastery over the elements. |
+| [Riija](#) | [Intellect](#) | Disciples of the trickster god employ illusions and stealth to great effect. |
+| [Jala](#) | [Intellect](#) | The goddess of Bards offers numerous magical songs that can both help and harm. |
 Banditry	Various	This tricksy school allows proficiency with daggers and increases combat capabilities.
 Knightcraft	Various	Knightcraft experts know how to better control blocking, parrying, stunning, knockback, shield bash, and efficiently wearing armor.
 Sorcery	Various	Long forgotten (until now), these lost arts modify your spells.
