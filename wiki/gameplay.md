@@ -64,20 +64,20 @@ Aside from the non-magical fighting abilities of the Weaponcraft school, the mag
 
 | Name | Primary Stat | Description |
 | ---- | ------------ | ----------- |
-| [Weaponcraft](#) | Various | Based on Might, Stamina, Agility, and Aim, this is the school of physical combat. |
-| [Kraanan](#) | [Stamina](#) | The warrior god Kraanan offers a range of offensive and defensive buffs. |
-| [Shal'ille](#) | [Mysticism](#) | The goddess of goodness and light offers holy followers powers of healing and defense. |
-| [Qor](#) | [Mysticism](#) | The goddess of evil and darkness offers unholy followers murderous capabilities. |
-| [Faren](#) | [Mysticism](#) | The god of nature empowers his disciples with mastery over the elements. |
-| [Riija](#) | [Intellect](#) | Disciples of the trickster god employ illusions and stealth to great effect. |
-| [Jala](#) | [Intellect](#) | The goddess of Bards offers numerous magical songs that can both help and harm. |
-| [Banditry](#) | Various | This tricksy school allows proficiency with daggers and increases combat capabilities. |
-| [Knightcraft](#) | Various | Knightcraft experts know how to better control blocking, parrying, stunning, knockback, shield bash, and efficiently wearing armor.|
-| [Sorcery](#) | Various | Long forgotten (until now), these lost arts modify your spells. |
-| [Witchery](#) | Various | School of curses, allowing you to reduce your enemies' resistances and sap their lifeforce. |
-| [Alchemy](#) | Primarily [Intellect](#) | School of transmutation and creation of new items. Also allows for repair of shattered items. |
-| [Bestiary](#) | Primarily [Intellect](#) | School of beast mastery. Allows the taming and control of monsters, including elementals. |
-| [Shadowcraft](#) | Various | School of unarmed and unarmored combat. Various poses empower resting states. |
+| [Weaponcraft](schools/weaponcraft.md) | Various | Based on Might, Stamina, Agility, and Aim, this is the school of physical combat. |
+| [Kraanan](schools/kraanan.md) | [Stamina](stats/stamina.md) | The warrior god Kraanan offers a range of offensive and defensive buffs. |
+| [Shal'ille](/schools/shalille.md) | [Mysticism](stats/mysticism.md) | The goddess of goodness and light offers holy followers powers of healing and defense. |
+| [Qor](schools/qor.md) | [Mysticism](stats/mysticism.md) | The goddess of evil and darkness offers unholy followers murderous capabilities. |
+| [Faren](schools/faren.md) | [Mysticism](stats/mysticism.md) | The god of nature empowers his disciples with mastery over the elements. |
+| [Riija](schools/riija.md) | [Intellect](stats/intellect.md) | Disciples of the trickster god employ illusions and stealth to great effect. |
+| [Jala](schools/jala.md) | [Intellect](stats/intellect.md) | The goddess of Bards offers numerous magical songs that can both help and harm. |
+| [Banditry](schools/banditry.md) | Various | This tricksy school allows proficiency with daggers and increases combat capabilities. |
+| [Knightcraft](schools/knightcraft.md) | Various | Knightcraft experts know how to better control blocking, parrying, stunning, knockback, shield bash, and efficiently wearing armor.|
+| [Sorcery](schools/sorcery.md) | Various | Long forgotten (until now), these lost arts modify your spells. |
+| [Witchery](schools/witchery.md) | Various | School of curses, allowing you to reduce your enemies' resistances and sap their lifeforce. |
+| [Alchemy](schools/alchemy.md) | Primarily [Intellect](stats/intellect.md) | School of transmutation and creation of new items. Also allows for repair of shattered items. |
+| [Bestiary](schools/beastiary.md) | Primarily [Intellect](stats/intellect.md) | School of beast mastery. Allows the taming and control of monsters, including elementals. |
+| [Shadowcraft](schools/shadowcraft.md) | Various | School of unarmed and unarmored combat. Various poses empower resting states. |
 
 ### Training Points
 
