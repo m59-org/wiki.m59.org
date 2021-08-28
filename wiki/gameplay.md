@@ -36,9 +36,11 @@ Coming from classic Meridian? Here are some of the new features you should know 
 ___
 
 **FAQ**
+
 [Frequently Asked Questions](#)
 
 **Stats**
+
 Every starting adventurer begins with a combination of 200 stat points. Further stat points are gained as your character progresses and gains Enlightenment.
 
 | Stat | Description |
