@@ -71,14 +71,16 @@ Aside from the non-magical fighting abilities of the Weaponcraft school, the mag
 | [Faren](#) | [Mysticism](#) | The god of nature empowers his disciples with mastery over the elements. |
 | [Riija](#) | [Intellect](#) | Disciples of the trickster god employ illusions and stealth to great effect. |
 | [Jala](#) | [Intellect](#) | The goddess of Bards offers numerous magical songs that can both help and harm. |
-Banditry	Various	This tricksy school allows proficiency with daggers and increases combat capabilities.
-Knightcraft	Various	Knightcraft experts know how to better control blocking, parrying, stunning, knockback, shield bash, and efficiently wearing armor.
-Sorcery	Various	Long forgotten (until now), these lost arts modify your spells.
-Witchery	Various	School of curses, allowing you to reduce your enemies' resistances and sap their lifeforce.
-Alchemy	Primarily Intellect	School of transmutation and creation of new items. Also allows for repair of shattered items.
-Bestiary	Primarily Intellect	School of beast mastery. Allows the taming and control of monsters, including elementals.
-Shadowcraft	Various	School of unarmed and unarmored combat. Various poses empower resting states.
-Training Points
+| [Banditry](#) | Various | This tricksy school allows proficiency with daggers and increases combat capabilities. |
+| [Knightcraft](#) | Various | Knightcraft experts know how to better control blocking, parrying, stunning, knockback, shield bash, and efficiently wearing armor.|
+| [Sorcery](#) | Various | Long forgotten (until now), these lost arts modify your spells. |
+| [Witchery](#) | Various | School of curses, allowing you to reduce your enemies' resistances and sap their lifeforce. |
+| [Alchemy](#) | Primarily [Intellect](#) | School of transmutation and creation of new items. Also allows for repair of shattered items. |
+| [Bestiary](#) | Primarily [Intellect](#) | School of beast mastery. Allows the taming and control of monsters, including elementals. |
+| [Shadowcraft](#) | Various | School of unarmed and unarmored combat. Various poses empower resting states. |
+
+**Training Points**
+
 You can gain Training Points through a variety of actions. Use the spell Meditate to spend these Training Points to improve skills and spells.
 
 Items
