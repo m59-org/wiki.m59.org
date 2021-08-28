@@ -45,12 +45,12 @@ Every starting adventurer begins with a combination of 200 stat points. Further 
 
 | Stat | Description |
 | ---- | ----------- |
-| [Might](#) | A measure of physical strength and carrying capacity. |
-| [Intellect](#) | A measure of mental strength and learning capacity. |
-| [Stamina](#) | Tough adventurers can take more punishment and recover faster. |
-| [Agility](#) | Quick adventurers are better at the defensive arts. |
-| [Mysticism](#) | Every adventurer has a certain capability for magic and mana. |
-| [Aim](#) | A true aim will help attacks land on enemies. |
+| [Might](stats/might.md) | A measure of physical strength and carrying capacity. |
+| [Intellect](stats/intellect.md) | A measure of mental strength and learning capacity. |
+| [Stamina](stats/stamina.md) | Tough adventurers can take more punishment and recover faster. |
+| [Agility](stats/agility.md) | Quick adventurers are better at the defensive arts. |
+| [Mysticism](stats/mysticism.md) | Every adventurer has a certain capability for magic and mana. |
+| [Aim](stats/aim.md) | A true aim will help attacks land on enemies. |
 
 #### Sample Builds
 
