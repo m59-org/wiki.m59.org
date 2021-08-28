@@ -35,11 +35,11 @@ Coming from classic Meridian? Here are some of the new features you should know 
 
 ___
 
-**FAQ**
+### FAQ
 
 [Frequently Asked Questions](#)
 
-**Stats**
+### Stats
 
 Every starting adventurer begins with a combination of 200 stat points. Further stat points are gained as your character progresses and gains Enlightenment.
 
@@ -52,11 +52,11 @@ Every starting adventurer begins with a combination of 200 stat points. Further 
 | [Mysticism](#) | Every adventurer has a certain capability for magic and mana. |
 | [Aim](#) | A true aim will help attacks land on enemies. |
 
-**Sample Builds**
+#### Sample Builds
 
 [Click Here To See Some Recommended Builds](#)
 
-**Skill & Spell Schools**
+### Skill & Spell Schools
 
 There are fourteen major schools of abilities in Meridian 59. You may work your way up through them in any combination you choose, limited only in total sum by your character's Intellect. Smarter characters can learn more spells and skills total.
 
@@ -79,7 +79,7 @@ Aside from the non-magical fighting abilities of the Weaponcraft school, the mag
 | [Bestiary](#) | Primarily [Intellect](#) | School of beast mastery. Allows the taming and control of monsters, including elementals. |
 | [Shadowcraft](#) | Various | School of unarmed and unarmored combat. Various poses empower resting states. |
 
-**Training Points**
+### Training Points
 
 You can gain Training Points through a variety of actions. Use the spell Meditate to spend these Training Points to improve skills and spells.
 
@@ -121,12 +121,8 @@ NPC's
 Desert
 
 Monsters
-Positive Karma
+- Positive Karma
+- Neutral Karma
+- Negative Karma
 
-Neutral Karma
-
-Negative Karma
-
-
-Survival Arena
-Survival_arena
+[Survival Arena](Survival_arena)
