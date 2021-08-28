@@ -3,12 +3,11 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to the new Open Meridian Project Wiki
+### Welcome to the new Open Meridian Project Wiki
 
+___
 
-
-
-## Open Meridian Project
+# Open Meridian Project
 We are The Open Meridian Project, a loose knit group of people working on a new expansion, and a new 3d client for the legacy MMO, Meridian 59.
 
 Meridian 59 was first launched in December 1995, making it the first commercial 3d MUD. It is a skill based game, there are no levels in the traditional sense, and is known for an excellent PvP experience. It was open-sourced in February 2010 under the GPLv2. The artwork and some 3rd party licensed tools were not included.
