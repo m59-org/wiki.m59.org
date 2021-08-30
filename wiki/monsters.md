@@ -33,8 +33,8 @@ Monsters of Meridian
 |Mutant Ant|	75	||	40|	Magic weapons, nerudite|
 |Skeleton|	75	||	50|	Holy, Bludgeon|
 |Cave Orc|	80	|	5|
-|Orc Wizard|	80	|	60|H
-|Troll|	90	|	75||	Nerudite Sword|
+|Orc Wizard|	80	||	60|H
+|Troll|	90	||	75|	Nerudite Sword|
 |Groundworm |	100||	|Acid	30	Hammer|
 |Tusked Skeleton|	100	||	70|	Holy, Bludgeon|
 |Lupogg|	105|		-75	|
