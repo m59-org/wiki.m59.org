@@ -7,12 +7,11 @@ Monsters of Meridian
 | ------- | --------- | ----------- | ----------- | --------------- |
 | Small | Rat | 10 | 0 | Fire, Bludgeon |
 | Baby Spider | 25 | 10 | |
-| Mummy 30 | 0 | |
-
-Giant Rat	30		20	Fire, Bludgeon
-Centipede	30		-15	
-Groundworm Larva	35	Acid	10	
-Slime	35	Acid	0	
+| Mummy | 30 || 0 | |
+| Giant Rat | 30 | 20 || Fire, Bludgeon |
+| Centipede | 30 | -15 | |
+| Groundworm Larva |	35|||	Acid	10	|
+|Slime	|35|||	Acid	0	
 Ant	40		10	
 Spectral Mummy	40		0	
 Orc	50		35	
