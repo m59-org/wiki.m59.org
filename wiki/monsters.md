@@ -3,22 +3,22 @@
 --
 
 Monsters of Meridian
-| Monster | Max level | Attack Type | Karma given | Vulnerabilities |
-| ------- | --------- | ----------- | ----------- | --------------- |
-| Small | Rat | 10 | 0 | Fire, Bludgeon |
-| Baby Spider | 25 | 10 | |
+| Monster | Max level | Attack Type | Karma given | Vulnerabilities|
+| ------- | --------- | ----------- | ----------- | ---------------|
+| Small Rat | 10 |  | 0 | Fire, Bludgeon |
+| Baby Spider | 25 |  |10 |
 | Mummy | 30 || 0 | |
-| Giant Rat | 30 | 20 || Fire, Bludgeon |
-| Centipede | 30 | -15 | |
-| Groundworm Larva |	35|||	Acid	10	|
-|Slime	|35|||	Acid	0	
-|Ant|	40	|	10	|
-|Spectral Mummy|	40	|	0	|
+| Giant Rat | 30 |  |20| Fire, Bludgeon |
+| Centipede | 30 |  |-15|
+| Groundworm Larva |	35||10|	Acid		|
+|Slime	|35||0|	Acid|	
+|Ant|	40	|	|10	|
+|Spectral Mummy|	40	||	0	|
 |Orc|	50	|	|35	|
-|Spider|	50|		30	|
-|Dusk Rat|	50|		40	|
-|Fungus Beast|	50|		-10	|
-|Living Tree|	50|	Shock	-40	|
+|Spider|	50|	|	30	|
+|Dusk Rat|	50|	|	40	|
+|Fungus Beast|	50|	|	-10	|
+|Living Tree|	50|	Shock|	-40	||
 |Zombie|	55	|	45||	Holy|
 |Giant Scorpion|	55|		-20	|
 |Battered Skeleton|	60||		70|	Holy, Bludgeon|
