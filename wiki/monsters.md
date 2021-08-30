@@ -30,13 +30,13 @@ Monsters of Meridian
 |Frogman|	85|		|-80|	Cold, Unholy|
 |Black Spider|	75|		30	|
 |Living Statue|	75	|	40	|
-|Mutant Ant|	75	|	40|	Magic weapons, nerudite|
+|Mutant Ant|	75	||	40|	Magic weapons, nerudite|
 |Skeleton|	75	||	50|	Holy, Bludgeon|
 |Cave Orc|	80	|	5|
 |Orc Wizard|	80	|	60|H
-|Troll|	90	|	75|	Nerudite Sword|
-|Groundworm |	100|	|Acid	30	Hammer|
-|Tusked Skeleton|	100	|	70|	Holy, Bludgeon|
+|Troll|	90	|	75||	Nerudite Sword|
+|Groundworm |	100||	|Acid	30	Hammer|
+|Tusked Skeleton|	100	||	70|	Holy, Bludgeon|
 |Lupogg|	105|		-75	|
 |Orc Pit Boss|	115|		90	|
 |Guardian of Zjiria |- 
