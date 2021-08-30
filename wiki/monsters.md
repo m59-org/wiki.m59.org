@@ -54,9 +54,9 @@ Monsters of Meridian
 |Thrasher|	150||	|	75|	Fire, Holy.|
 |diseased tree|	150||	|Shock at range	0	Fire|
 |Ice Creature|	160||	|Cold	0	Fire|
-|Kriipa|	160||	|	50|	Slash, neru, shock|
-|Chupacabra|	165||	|	0|	Holy|
-|Queen Spider|	165||	|	90|	Acid, thrust|
+|Kriipa|	160||	50|	Slash, neru, shock|
+|Chupacabra|	165|	|	0|	Holy|
+|Queen Spider|	165|	|	90|	Acid, thrust|
 |Air Elemental|	170|	Shock	0	
 |Xeochicatl|	150+|	Magic Weapon	0	Magic Weapons
 |Vix'xeo|	180+|	Magic weapon/varies	0	Varies
