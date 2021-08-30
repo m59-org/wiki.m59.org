@@ -42,21 +42,21 @@ Monsters of Meridian
 |Guardian of Zjiria |- 
 |Stone Troll|	120	|	100	|Nerudite Sword|
 |Dragonfly|	120|		-40	
-|Avar Warrior|	120|		-40	Neru, Cold
-|Avar Shaman|	120|		-80	
-|Groundworm Queen|	130|	Acid	50	Bludgeon
-|Narthyl Worm|	130|		70	
-|Daemon Skeleton|	130|		90	Holy, Bludgeon
+|Avar Warrior|	120|		-40|	Neru, Cold|
+|Avar Shaman|	120||	|	-80	|
+|Groundworm Queen|	130||	|Acid	50	Bludgeon|
+|Narthyl Worm|	130||	|	70	|
+|Daemon Skeleton|	130||	|	90|	Holy, Bludgeon|
 |Avar Leader| - 
-|Avar Chieftain|	135|		-80	
-|Mollusk Creature|	150|		-100	Magic weapons
-|Dragonfly Queen|	145|		-40	
-|Thrasher|	150|		75	Fire, Holy.
-|diseased tree|	150|	Shock at range	0	Fire
-|Ice Creature|	160|	Cold	0	Fire
-|Kriipa|	160|		50	Slash, neru, shock
-|Chupacabra|	165|		0	Holy
-|Queen Spider|	165|		90	Acid, thrust
+|Avar Chieftain|	135||	|	-80	|
+|Mollusk Creature|	150||	|	-100|	Magic weapons|
+|Dragonfly Queen|	145||	|	-40	|
+|Thrasher|	150||	|	75|	Fire, Holy.|
+|diseased tree|	150||	|Shock at range	0	Fire|
+|Ice Creature|	160||	|Cold	0	Fire|
+|Kriipa|	160||	|	50|	Slash, neru, shock|
+|Chupacabra|	165||	|	0|	Holy|
+|Queen Spider|	165||	|	90|	Acid, thrust|
 |Air Elemental|	170|	Shock	0	
 |Xeochicatl|	150+|	Magic Weapon	0	Magic Weapons
 |Vix'xeo|	180+|	Magic weapon/varies	0	Varies
