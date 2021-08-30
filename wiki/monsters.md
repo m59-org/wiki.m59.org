@@ -22,7 +22,7 @@ Monsters of Meridian
 |Zombie|	55	|	45|	Holy|
 |Giant Scorpion|	55|		-20	|
 |Battered Skeleton|	60||		70|	Holy, Bludgeon|
-|Fey Dirhai|	60||	Shock	50	Holy|
+|Fey Dirhai|	60|||	Shock	50	Holy|
 |Fey Elhai|	60|||	Shock	-50	Unholy|
 |Giant Rat Soldier|	60	||	|Fire, Bludgeon|
 |Giant Rat King|	60|		0||	Fire, Bludgeon|
