@@ -35,26 +35,26 @@ After Qua'Kornedrin falls, you will then need to combat 5 spheres that cast elem
 ### Loot
 The sorcerers drop level 240 items.
 
-Gloves
-Enchanted weapons
-Blue Dragon Scale
-Inky Cap Mushroom
-Plate Armor socketed
-Sylvan Shield socketed
-Bandit Scimitar
-Flail
-Ring of Shock Resistance
-Ring of Acid Resistance
-Ring of Purity
-Ring of Corruption
-Ring of Fire Resistance
-Knight's Helm
-Fine Lute
-Runed Helm
-Necklace of Jala
-Scroll of Discord
-Shard of Empowerment
-Quartz Crystal
-Verdant Crystal
-Star Ruby
-Sapphire Teardrop
+- Gloves
+- Enchanted weapons
+- Blue Dragon Scale
+- Inky Cap Mushroom
+- Plate Armor socketed
+- Sylvan Shield socketed
+- Bandit Scimitar
+- Flail
+- Ring of Shock Resistance
+- Ring of Acid Resistance
+- Ring of Purity
+- Ring of Corruption
+- Ring of Fire Resistance
+- Knight's Helm
+- Fine Lute
+- Runed Helm
+- Necklace of Jala
+- Scroll of Discord
+- Shard of Empowerment
+- Quartz Crystal
+- Verdant Crystal
+- Star Ruby
+- Sapphire Teardrop
