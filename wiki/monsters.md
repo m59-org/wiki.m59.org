@@ -31,7 +31,7 @@ Monsters of Meridian
 |Black Spider|	75|		30	
 |Living Statue|	75	|	40	
 |Mutant Ant|	75	|	40	Magic weapons, nerudite
-Skeleton	75	|	50	Holy, Bludgeo
+|Skeleton|	75	|	50	Holy, Bludgeo
 |Cave Orc|	80	|	5
 |Orc Wizard|	80	|	60	H
 |Troll|	90	|	75	Nerudite Sword
