@@ -30,19 +30,25 @@ Monsters of Meridian
 |Frogman|	85		-80	Cold, Unholy
 |Black Spider|	75		30	
 |Living Statue|	75		40	
-|Mutant Ant|	75		40	Magic weapons, neruditeSkeleton	75		50	Holy, BludgeoCave Orc	80		5Orc Wizard	80		60	HTroll	90		75	Nerudite Sword
+|Mutant Ant|	75		40	Magic weapons, nerudite
+Skeleton	75		50	Holy, Bludgeo
+|Cave Orc|	80		5
+|Orc Wizard|	80		60	H
+|Troll|	90		75	Nerudite Sword
 |Groundworm |	100	Acid	30	Hammer
 |Tusked Skeleton|	100		70	Holy, Bludgeon
 |Lupogg|	105		-75	
 |Orc Pit Boss|	115		90	
-|Guardian of Zjiria |- Stone Troll	120		100	Nerudite Sword
+|Guardian of Zjiria |- 
+|Stone Troll|	120		100	Nerudite Sword
 |Dragonfly|	120		-40	
 |Avar Warrior|	120		-40	Neru, Cold
 |Avar Shaman|	120		-80	
 |Groundworm Queen|	130	Acid	50	Bludgeon
 |Narthyl Worm|	130		70	
 |Daemon Skeleton|	130		90	Holy, Bludgeon
-|Avar Leader| - Avar Chieftain	135		-80	
+|Avar Leader| - 
+|Avar Chieftain|	135		-80	
 |Mollusk Creature|	150		-100	Magic weapons
 |Dragonfly Queen|	145		-40	
 |Thrasher|	150		75	Fire, Holy.
