@@ -57,21 +57,21 @@ Monsters of Meridian
 |Kriipa|	160||	50|	Slash, neru, shock|
 |Chupacabra|	165|	|	0|	Holy|
 |Queen Spider|	165|	|	90|	Acid, thrust|
-|Air Elemental|	170|	Shock	0	
-|Xeochicatl|	150+|	Magic Weapon	0	Magic Weapons
-|Vix'xeo|	180+|	Magic weapon/varies	0	Varies
-|Dark Angel|	200|	Fire	0	Magic Weapons
-|Force of nature|	200|	Acid	-100	
-|Lost soul|	200|	Holy or Unholy	0	
-|Golem|	200|	Depends on type	0	Corrosion weapons, varies
-|Lava frog|	200|	Fire	0	Cold
-|Yeti|	200|		0	Hammer, fire
-|Lupogg King|	200|		0	Nerudite Sword, friends
-|Shadowbeast|	200|		100	Holy, fire, cold, shock
-|Ghost of Far'Nohl|	200|	Fire	100	Holy, magic weapon
-|Queen Venya'cyr|	200|	Unholy	100	Lots of friends.
-|Cow|	200|		0	
-|Ice Dragon|	220|	Cold	0	Silver arrows, Fire
-|High Sorcerers|	240|	Every element	0	
-|Burning Orb|	300|	Elemental	0	Magic Weapons
-|Crystalline entity|	300|	Elemental	0	Magic Weapons
+|Air Elemental|	170|	Shock |0|	
+|Xeochicatl|	150+|	Magic Weapon|	0	|Magic Weapons|
+|Vix'xeo|	180+|	Magic weapon/varies|	0	|Varies|
+|Dark Angel|	200|	Fire|	0	|Magic Weapons|
+|Force of nature|	200|	Acid|	-100	||
+|Lost soul|	200|	Holy or Unholy|	0	||
+|Golem|	200|	Depends on type|	0	|Corrosion weapons, varies|
+|Lava frog|	200|	Fire|	0|	Cold|
+|Yeti|	200|	|	0|	Hammer, fire|
+|Lupogg King|	200|	|	0|	Nerudite Sword, friends|
+|Shadowbeast|	200|	|	100|	Holy, fire, cold, shock|
+|Ghost of Far'Nohl|	200|	Fire|	100	|Holy, magic weapon|
+|Queen Venya'cyr|	200|	Unholy|	100	|Lots of friends.|
+|Cow|	200|		|0	||
+|Ice Dragon|	220|	Cold|	0| 	Silver arrows, Fire|
+|High Sorcerers|	240|	Every element|	0|	|
+| [Burning Orb](monsters/burning-orb.md) | 300 | Elemental | 0 | Magic Weapons |
+| [Crystalline entity](monsters/crystalline-entity.md) | 300 | Elemental | 0 | Magic Weapons |
