@@ -19,24 +19,24 @@ Monsters of Meridian
 |Dusk Rat|	50|		40	|
 |Fungus Beast|	50|		-10	|
 |Living Tree|	50|	Shock	-40	|
-|Zombie|	55	|	45|	Holy|
+|Zombie|	55	|	45||	Holy|
 |Giant Scorpion|	55|		-20	|
-|Battered Skeleton|	60|		-70|	Holy, Bludgeon|
-|Fey Dirhai|	60||	Shock	50	Holy|
-|Fey Elhai|	60||	Shock	-50	Unholy|
-|Giant Rat Soldier|	60	|	|Fire, Bludgeon|
-|Giant Rat King|	60|		0|	Fire, Bludgeon|
+|Battered Skeleton|	60||		70|	Holy, Bludgeon|
+|Fey Dirhai|	60|||	Shock	50	Holy|
+|Fey Elhai|	60|||	Shock	-50	Unholy|
+|Giant Rat Soldier|	60	||	|Fire, Bludgeon|
+|Giant Rat King|	60|		0||	Fire, Bludgeon|
 |Snow Rat	|65	|	50	|
-|Frogman|	85|		|-80	Cold, Unholy|
+|Frogman|	85|		|-80|	Cold, Unholy|
 |Black Spider|	75|		30	|
 |Living Statue|	75	|	40	|
-|Mutant Ant|	75	|	40|	Magic weapons, nerudite|
-|Skeleton|	75	|	50|	Holy, Bludgeon|
+|Mutant Ant|	75	||	40|	Magic weapons, nerudite|
+|Skeleton|	75	||	50|	Holy, Bludgeon|
 |Cave Orc|	80	|	5|
-|Orc Wizard|	80	|	60|H
-|Troll|	90	|	75|	Nerudite Sword|
-|Groundworm |	100|	|Acid	30	Hammer|
-|Tusked Skeleton|	100	|	70|	Holy, Bludgeon|
+|Orc Wizard|	80	||	60|H
+|Troll|	90	||	75|	Nerudite Sword|
+|Groundworm |	100||	|Acid	30	Hammer|
+|Tusked Skeleton|	100	||	70|	Holy, Bludgeon|
 |Lupogg|	105|		-75	|
 |Orc Pit Boss|	115|		90	|
 |Guardian of Zjiria |- 
