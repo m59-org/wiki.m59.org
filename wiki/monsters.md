@@ -1,6 +1,6 @@
 ## Monsters
 
---
+---
 
 Monsters of Meridian
 | Monster | Max level | Attack Type | Karma given | Vulnerabilities|
