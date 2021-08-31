@@ -3,6 +3,7 @@
 ---
 
 Monsters of Meridian
+
 | Monster | Max level | Attack Type | Karma given | Vulnerabilities|
 | ------- | --------- | ----------- | ----------- | ---------------|
 | Small Rat | 10 |  | 0 | Fire, Bludgeon |
