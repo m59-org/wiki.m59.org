@@ -73,6 +73,6 @@ Monsters of Meridian
 |Queen Venya'cyr|	200|	Unholy|	100	|Lots of friends.|
 |Cow|	200|		|0	||
 |Ice Dragon|	220|	Cold|	0| 	Silver arrows, Fire|
-|High Sorcerers|	240|	Every element|	0|	|
-| [Burning Orb](monsters/burning-orb.md) | 300 | Elemental | 0 | Magic Weapons |
-| [Crystalline entity](monsters/crystalline-entity.md) | 300 | Elemental | 0 | Magic Weapons |
+| [High Sorcerers](monsters/high-sorcerers) |	240|	Every element|	0|	|
+| [Burning Orb](monsters/burning-orb) | 300 | Elemental | 0 | Magic Weapons |
+| [Crystalline entity](monsters/crystalline-entity) | 300 | Elemental | 0 | Magic Weapons |
