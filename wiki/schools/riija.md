@@ -13,7 +13,7 @@ You don't need to do the Sword of Riija quest to learn Riija spells.
 |1	|	Anonymity|	2 Rainbow Fern 1 Firesand|	Monk of Riija|	40|20|
 |1|Blink|	-|	Afiera D'Xor|	15|	20|
 |1|Feign Death|	1 Rainbow Fern|	Monk of Riija|	40|	20|
-|1|Flash	|2 |Dragonfly Eye	|Monk of Riija	|15|	20|
+|1|Flash	|2 Dragonfly Eye	|Monk of Riija	|15|	20|
 |1|Phase|	-	|-|	5|	-|
 |1|Shadow Form|	3 Rainbow Fern|	Monk of Riija|	30|	20|
 |2|	Bait	|1 Fires and 1 Web Moss|	Monk of Riija|	15	|20|
