@@ -5,11 +5,10 @@
 The war mage's school of spells. These spells deal with elemental damage. How to deal damage to others, how to deal damage at a distance, and how to resist this damage from others. A high Mysticism helps the war mages cast their spells better. Faren gets spellpower bonuses from high vigor and natural maps like the great ocean.
 
 
-Faren Spells
+### Faren Spells
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Fog	1 Elderberry	Priestess Tenuv'vyal	20	10
 Light	-	Priestess Tenuv'vyal	30	10
 Meditate	-	-	Based on

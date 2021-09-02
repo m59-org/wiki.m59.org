@@ -10,9 +10,8 @@ Those trained in this school can gain the ability to reserve a percentage of the
 Sorcery is aligned with the Princess faction.
 
 ### Sorcery
-Level	Cost	Name	Based Stat	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Charged Clutch	Intellect	Korath		40
 Efficiency	Stamina	Korath		90
 Minor Spirit Link	Mysticism	Korath		20

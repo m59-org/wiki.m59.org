@@ -7,9 +7,8 @@ The bard's school of spells. Most of these spells take the form of songs that yo
 
 ### Jala Spells
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Invigorate	-	D'Franco	20	10
 Melancholy	1 Sapphire	Parrin Aragone	25	20
 Mirth	1 Sapphire	Parrin Aragone	25	20

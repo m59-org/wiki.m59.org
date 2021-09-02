@@ -9,9 +9,8 @@ Kraanan's primary spellpower bonus is the number of players and monsters in the 
 
 ### Kraanan Spells
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Conveyance	None	Bei Naq, new chars		
 Create Food	2 Elderberry
 2 Herb	Priestess Qerti'nya	15	10

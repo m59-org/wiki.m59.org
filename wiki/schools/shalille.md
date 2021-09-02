@@ -7,9 +7,8 @@ The healer's school of spells. These spells help heal the pure at heart. Differe
 
 ### Shal'ille Spells
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Breath of Life	1 Herb	Priestess Xiana	20	10
 Detect Evil	1 Fairy Wing	Priestess Xiana	15	10
 Holy Symbol	2 Elderberry	Priestess Xiana	15	20

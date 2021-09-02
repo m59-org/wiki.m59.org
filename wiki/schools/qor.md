@@ -7,9 +7,8 @@ The evil one's school of spells. These spells help the darker side to achieve po
 
 ### Qor Spells
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Cloak	2 Entroot Berry	Priestess Zuxana	20	20
 Darkness	None	Priestess Zuxana	30	10
 Detect Good	1 Fairy Wing	Priestess Zuxana	15	10

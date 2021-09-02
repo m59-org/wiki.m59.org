@@ -33,9 +33,8 @@ Contents
 ### Iwodach
 ** Witchery **
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Weaken	1 Cold Fragments	Iwodach		30
 2	1000	Arcane Knowledge	Passive	Iwodach	18	35
 3	2000	Corruption	1 Unholy Fragment	Iwodach		100
@@ -49,9 +48,8 @@ Noxious Strike	Passive	Iwodach	15	44
 ### Nequzon
 * Witchery *
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Barbs	1 Cold Fragment	Nequzon		30
 2	1000	Corrosion	1 Acid Fragment	Nequzon		30
 3	2000	Algidity	1 Cold Fragment	Nequzon		40
@@ -64,9 +62,8 @@ Flammability	1 Fire Fragment	Nequzon		40
 ### Ventdal
 * Witchery *
 
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Nightgrip	Passive	Vrinna		30
 Sever	1Shock Fragment	Vrinna		30
 2	1000	Thorns	1Shock Fragment	Vrinna		70
@@ -80,9 +77,8 @@ Spirit Shackles	1 Cold Fragment	Vrinna	15	200
 
 ### Xaerdun
 * Witchery *
-Level	Cost	Name	Reagents	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Reagents | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Fester	1 Fire Fragment	Xaerdun		30
 Mute	1 Unholy Fragment	Xaerdun		30
 2	1000	Exhaustion	1 Acid Fragment	Xaerdun		30

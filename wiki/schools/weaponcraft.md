@@ -7,9 +7,8 @@ The school of warriors. The attacking school. Gives your character the ability t
 * Note: Scimitar Wielding will NOT require you to do the pupil quest for Quintor on s103. He will just sell it to you. *
 
 ### Weapon Skills
-Level	Cost	Name	Based Stat	NPC	Chance
-to Imp	Training
-Points
+| Level | Name | Stat     | NPC | Chance to Imp | Training Points |
+| ----- | ---- | -------- | --- | ------------- | --------------- |
 1	500	Block	Agility	Jonas D'Accor	60	20
 Mace Fighting	Might	Rook	40	10
 Punch	Agility	Rook	60	30

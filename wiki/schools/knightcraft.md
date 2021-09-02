@@ -8,9 +8,9 @@ Knightcraft is aligned with the Jonas faction.
 The school leans heavily on Might and Stamina, but also has one skill each in Intellect, Agility, Mysticism, and Aim, making it the first school with skills from all stats.
 
 ### Knightcraft
-Level	Cost	Name	Based Stat	NPC	Chance
-to Imp	Training
-Points
+
+| Level | Name | Stat | NPC | Chance to Imp | Training Points |
+| ----- | ---- | ---- | --- | ------------- | --------------- |
 1	500	Honesty	Intellect	Cylill		20
 Medium Armor	Might	Cylill		60
 Shield Wall	Stamina	Cylill		30
