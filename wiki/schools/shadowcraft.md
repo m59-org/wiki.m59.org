@@ -30,5 +30,5 @@ Shadowcraft skills will improve and work is a JoF is equipped.
 |5|	Flicker Strike|	Agility|	Mysterious Traveler	||	70|
 |5|Padmasana	|Stamina|	Mysterious Traveler||		50|
 |5|Sanctification|	Mysticism|	Mysterious Traveler	||	60|
-|6|	16000|	Mayurasana|	Stamina|	Mysterious Traveler||		60|
+|6|	Mayurasana|	Stamina|	Mysterious Traveler||		60|
 |6|Shadowstep|	Agility	|Mysterious Traveler	||	100|
