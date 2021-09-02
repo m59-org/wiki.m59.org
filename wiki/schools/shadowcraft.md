@@ -11,8 +11,9 @@ Shadowcraft skills will improve and work is a JoF is equipped.
 
 ### Shadowcraft
 
-|Level|		Name|	Based Stat|	NPC	|Chance to Imp|	Training Points|
-|1|		Flowing Cloth Technique|	Agility	|Mysterious Traveler		||20
+|Level|Name|Based Stat|NPC|Chance to Imp|Training Points|
+|---  |--- |---       |---|---          |---            |
+|1|	Flowing Cloth Technique|	Agility	|Mysterious Traveler||20|
 |1|Matsyasana|	Stamina|	Mysterious Traveler	||	10|
 |1|Way of the Serpent|	Aim|	Mysterious Traveler	||	30|
 |1|Wound Mask|	Stamina	|Mysterious Traveler	||	10|
