@@ -11,22 +11,20 @@ The school leans heavily on Might and Stamina, but also has one skill each in In
 
 | Level | Name | Stat | NPC | Chance to Imp | Training Points |
 | ----- | ---- | ---- | --- | ------------- | --------------- |
-1	500	Honesty	Intellect	Cylill		20
-Medium Armor	Might	Cylill		60
-Shield Wall	Stamina	Cylill		30
-2	1000
-Battle Shout	Might	Cylill		100
-Bravery	Might	Cylill		30
-Rapid Assault	Agility	Cylill		70
-3	2000
-Forceful Impact	Might	Cylill		40
-Fortitude	Stamina	Cylill		60
-Heavy Armor	Might	Cylill		90
-4	4000	Counterattack	Aim	Cylill		60
-Determination	Stamina	Cylill		80
-Shield Bash	Might	Cylill		40
-5	8000	Piety	Mysticism	Cylill		75
-Valiant Charge	Might	Cylill		80
-Verge Mastery	Might	Cylill		50
-6	16000	Zealous Fervor	Stamina	Cylill		110
-Weapon Mastery	Intellect	Cylill		110
+1   |Honesty    |Intellect  |Cylill |      |20
+1|Medium Armor| Might|  Cylill |      |60
+1|Shield Wall   |Stamina    |Cylill ||  30
+2| Battle Shout|    Might|  Cylill|    |100
+2| Bravery| Might|  Cylill| |30
+2| Rapid Assault|   Agility |Cylill |      |70|
+3 |Forceful Impact  |Might  |Cylill |   |40
+3 |Fortitude    |Stamina    |Cylill |      |60
+3 |Heavy Armor  |Might  |Cylill |   |90|   
+4| Counterattack    |Aim|   Cylill  |   |60
+4| Determination    |Stamina|   Cylill  |   |80
+4| Shield Bash| Might|  Cylill  |   |40
+5| Piety|   Mysticism|  Cylill  |   |75
+5| Valiant Charge|  Might|  Cylill  |   |80
+5| Verge Mastery|   Might|  Cylill  |   |50
+6| Zealous Fervor|  Stamina|    Cylill  |   |110
+6| Weapon Mastery|  Intellect|  Cylill  |   |110
