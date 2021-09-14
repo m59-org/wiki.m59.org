@@ -19,7 +19,7 @@ Kraanan's primary spellpower bonus is the number of players and monsters in the 
 1| Guild Conveyance	|None	|Tendrath	| |	
 1| Relay	|1x Edible Mushroom	|Priestess Qerti'nya	|20	|10|
 2|	Bless|	2x Brown Mushroom 2x Sapphire	|Priestess Qerti'nya	|25	|20
-2|Enchant Weapon	|x2 Elderberry 1x Orc Tooth	|Priestess Qerti'nya	|20	|25
+2|Enchant Weapon	|2x Elderberry 1x Orc Tooth	|Priestess Qerti'nya	|20	|25
 2| Haste|	5x Edible Mushroom|	Jonas D'Accor |15	|10
 2| Resist Poison	|2x Herb 1x Red Mushroom	|Jonas D'Accor	|15	|20
 2| Super Strength	|2x Brown Mushroom 1x Orc Tooth	|Priestess Qerti'nya	|30	|20
