@@ -11,51 +11,33 @@ Kraanan's primary spellpower bonus is the number of players and monsters in the 
 
 | Level | Name | Reagents | NPC | Chance to Imp | Training Points |
 | ----- | ---- | -------- | --- | ------------- | --------------- |
-1	500	Conveyance	None	Bei Naq, new chars		
-Create Food	2 Elderberry
-2 Herb	Priestess Qerti'nya	15	10
-Create Weapon	None	Priestess Qerti'nya	20	10
-Donate	-	Automatically available		
-Glow	1 Brown Mushroom
-1 Elderberry	Jonas D'Accor	20	25
-Guild Conveyance	None	Tendrath		
-Relay	1 Edible Mushroom	Priestess Qerti'nya	20	10
-2	1000	Bless	2 Brown Mushroom
-2 Sapphire	Priestess Qerti'nya	25	20
-Enchant Weapon	2 Elderberry
-1 Orc Tooth	Priestess Qerti'nya	20	25
-Haste	5 Edible Mushroom	Jonas D'Accor	15	10
-Resist Poison	2 Herb
-1 Red Mushroom	Jonas D'Accor	15	20
-Super Strength	2 Brown Mushroom
-1 Orc Tooth	Priestess Qerti'nya	30	20
-3	2000	Detect Invisible	2 Vial of Solagh	Tendrath	15	20
-Free Action	1 Purple Mushroom
-1 Red Mushroom	Jonas D'Accor	15	30
-Magic Shield	2 Brown Mushroom
-1 Red Mushroom	Fehr'loi Quan	35	20
-Martyr's Battleground	1 Brown Mushroom
-1 Elderberry	Miriana	15	20
-Night Vision	3 Elderberry	Priestess Qerti'nya	35	10
-Shroud	2 Brown Mushroom
-2 Elderberry	Jonas D'Accor	25	25
-4	4000	Deflect	1 Kriipa Claw
-1 Vial of Solagh	Tendrath	20	30
-Discordance	2 Sapphire	Priestess Qerti'nya	15	50
-Dispel Illusion	2 Vial of Solagh
-1 Dragonfly Eye
-1 Uncut Seraphym	Jonas D'Accor	20	30
-Eagle Eyes	3 Brown Mushroom
-1 Purple Mushroom	Priestess Qerti'nya	20	30
-Mana Bomb	2 Sapphire	Priestess Qerti'nya	20	30
-Mend	1 Orc Tooth
-1 Sapphire	Colhorr	10	25
-5	8000	Armor of Gort	2 Blue Dragon Scale	Priestess Qerti'nya	20	75
-Hunt	4 Kriipa Claw	Tendrath	50	100
-Killing Fields	3 Elderberry
-1 Orc Tooth	Priestess Qerti'nya	35	30
-Resist Magic	1 Blue Dragon Scale	Priestess Qerti'nya	30	50
-6	16000	Anti-Magic Aura	2 Sapphire
-1 Polished Seraphym	Priestess Qerti'nya	10	75
-Shatterlock	4 Kriipa Claw
-Prism	Jonas D'Accor	50	100
+1	|Conveyance|	None|	Bei Naq, new chars| | |		
+1 |Create Food|	2x Elderberry 2x Herb|	Priestess Qerti'nya|	15|	10|
+1| Create Weapon|	None|	Priestess Qerti'nya|	20|	10|
+1| Donate |none	|default spell | |	
+1| Glow|	1x Brown Mushroom 1x Elderberry|	Jonas D'Accor	|20	|25
+1| Guild Conveyance	|None	|Tendrath	| |	
+1| Relay	|1x Edible Mushroom	|Priestess Qerti'nya	|20	|10|
+2|	Bless|	2x Brown Mushroom 2x Sapphire	|Priestess Qerti'nya	|25	|20
+2|Enchant Weapon	|x2 Elderberry 1x Orc Tooth	|Priestess Qerti'nya	|20	|25
+2| Haste|	5x Edible Mushroom|	Jonas D'Accor |15	|10
+2| Resist Poison	|2x Herb 1x Red Mushroom	|Jonas D'Accor	|15	|20
+2| Super Strength	|2x Brown Mushroom 1x Orc Tooth	|Priestess Qerti'nya	|30	|20
+3|	Detect Invisible |2x Vial of Solagh	|Tendrath	|15	|20
+3|Free Action	1x Purple Mushroom 1x Red Mushroom	|Jonas D'Accor	|15	|30
+3| Magic Shield	|2x Brown Mushroom 1x Red Mushroom	|Fehr'loi Quan	|35	|20
+3| Martyr's Battleground	|1x Brown Mushroom 1x Elderberry	|Miriana	|15	|20
+3| Night Vision	|3x Elderberry	|Priestess Qerti'nya	|35	|10
+3| Shroud	|2x Brown Mushroom 2x Elderberry	|Jonas D'Accor	|25	|25
+4| Deflect	|1x Kriipa Claw 1x Vial of Solagh	|Tendrath	|20	|30
+4|Discordance	|2x Sapphire	|Priestess Qerti'nya	|15	|50
+4|Dispel Illusion	|2x Vial of Solagh 1x Dragonfly Eye 1x Uncut Seraphym	|Jonas D'Accor	|20	|30
+4|Eagle Eyes	|3x Brown Mushroom 1x Purple Mushroom	|Priestess Qerti'nya	|20	|30
+4|Mana Bomb	|2x Sapphire	|Priestess Qerti'nya	|20	|30
+4|Mend	|1x Orc Tooth 1x Sapphire	|Colhorr	|10	|25
+5|Armor of Gort	|2x Blue Dragon Scale	|Priestess Qerti'nya	|20	|75
+5|Hunt	|4x Kriipa Claw	|Tendrath	|50	|100
+5|Killing Fields	|3x Elderberry 1x Orc Tooth	|Priestess Qerti'nya	|35	|30
+5|Resist Magic	|1x Blue Dragon Scale	|Priestess Qerti'nya	|30	|50
+6|	Anti-Magic Aura	|2x Sapphire 1x Polished Seraphym|	Priestess Qerti'nya|	10	|75
+6|Shatterlock	|4x Kriipa Claw Prism	|Jonas D'Accor	|50	|100
