@@ -35,15 +35,15 @@ Contents
 
 | Level | Name | Reagents | NPC | Chance to Imp | Training Points |
 | ----- | ---- | -------- | --- | ------------- | --------------- |
-1	500	Weaken	1 Cold Fragments	Iwodach		30
-2	1000	Arcane Knowledge	Passive	Iwodach	18	35
-3	2000	Corruption	1 Unholy Fragment	Iwodach		100
-Humility	1 Holy Fragment	Iwodach		100
-4	4000	Ancient Pact	Passive	Iwodach	16	45
-Efficient Casting	Passive	Iwodach	14	55
-Noxious Strike	Passive	Iwodach	15	44
-5	8000	Frailty	1 of each fragments	Iwodach	15	40
-6	16000	Black Mantle	2 Unholy Fragment	Iwodach	10	200
+1|Weaken	|1 Cold Fragments	|Iwodach		||30
+2|Arcane Knowledge	|Passive	|Iwodach	|18	|35
+3|Corruption	|1 Unholy Fragment	|Iwodach		||100
+3|Humility	|1 Holy Fragment	|Iwodach		||100
+4|Ancient Pact	|Passive	|Iwodach	|16	|45
+4|Efficient Casting	|Passive	|Iwodach	|14	|55
+4|Noxious Strike	|Passive	|Iwodach	|15	|44
+5|Frailty	|1 of each fragments	|Iwodach	|15	|40
+6|Black Mantle	|2 Unholy Fragment	|Iwodach	|10	|200
 
 ### Nequzon
 * Witchery *
