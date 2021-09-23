@@ -50,44 +50,45 @@ Contents
 
 | Level | Name | Reagents | NPC | Chance to Imp | Training Points |
 | ----- | ---- | -------- | --- | ------------- | --------------- |
-1	500	Barbs	1 Cold Fragment	Nequzon		30
-2	1000	Corrosion	1 Acid Fragment	Nequzon		30
-3	2000	Algidity	1 Cold Fragment	Nequzon		40
-Rote Memorization	Passive	Nequzon		45
-4	4000	Conductivity	1 Shock Fragment	Nequzon		40
-Flammability	1 Fire Fragment	Nequzon		40
-5	8000	Vulnerability	1 of each fragment	Nequzon	15	40
-6	16000	Ostracization	Passive	Nequzon	10	99
+1|Barbs	|1 Cold Fragment	|Nequzon		||30
+2|Corrosion	|1 Acid Fragment	|Nequzon		||30
+3|Algidity	|1 Cold Fragment	|Nequzon		||40
+3|Rote Memorization	|Passive	|Nequzon		||45
+4|Conductivity	|1 Shock Fragment	|Nequzon		||40
+4|Flammability	|1 Fire Fragment	|Nequzon		||40
+5|Vulnerability	|1 of each fragment	|Nequzon	|15|40
+6|Ostracization	|Passive	|Nequzon	|10	|99
 
 ### Ventdal
 * Witchery *
 
 | Level | Name | Reagents | NPC | Chance to Imp | Training Points |
 | ----- | ---- | -------- | --- | ------------- | --------------- |
-1	500	Nightgrip	Passive	Vrinna		30
-Sever	1Shock Fragment	Vrinna		30
-2	1000	Thorns	1Shock Fragment	Vrinna		70
-Weariness	1Cold Fragment	Vrinna		30
-3	2000	Becloud	1 Cold Fragment	Vrinna		70
-4	4000	Vengeance	1 Shock Fragment	Vrinna	15	70
-Mana Shield	Passive	Vrinna	15	44
-5	8000	Aversion	Passive	Vrinna	10	60
-Spirit Shackles	1 Cold Fragment	Vrinna	15	200
-6	16000	Hermitage	Passive	Vrinna	18	99
+1|Nightgrip	|Passive	|Vrinna		||30
+1|Sever	|1Shock Fragment	|Vrinna		||30
+2|Thorns	|1Shock Fragment	|Vrinna		||70
+2|Weariness	|1Cold Fragment	|Vrinna		||30
+3|Becloud	|1 Cold Fragment	|Vrinna		||70
+4|Vengeance	|1 Shock Fragment|	Vrinna	|15	|70
+4|Mana Shield	|Passive	|Vrinna	|15	|44
+5|Aversion	|Passive	|Vrinna	|10	|60
+5|Spirit Shackles	|1 Cold Fragment	|Vrinna	|15	|200
+6|Hermitage	|Passive	|Vrinna	|18	|99
 
 ### Xaerdun
 * Witchery *
+
 | Level | Name | Reagents | NPC | Chance to Imp | Training Points |
 | ----- | ---- | -------- | --- | ------------- | --------------- |
-1	500	Fester	1 Fire Fragment	Xaerdun		30
-Mute	1 Unholy Fragment	Xaerdun		30
-2	1000	Exhaustion	1 Acid Fragment	Xaerdun		30
-Leeches	1 Fire Fragment	Xaerdun	10	70
-3	2000	Sap	1 Acid Fragment	Xaerdun	20	40
-4	4000	Bestill	1 Shock Fragment	Xaerdun	20	40
-5	8000	Slow	2 Cold Fragments	Xaerdun	15	50
-Unhallowed Runes	Passive	Xaerdun	13	66
-6	16000	Blood Runes	uses health	Xaerdun	10	99
+1|Fester	|1 Fire Fragment	|Xaerdun		||30
+1|Mute	|1 Unholy Fragment	|Xaerdun		||30
+2|Exhaustion	|1 Acid Fragment	|Xaerdun		||30
+2|Leeches	|1 Fire Fragment	|Xaerdun	|10	|70
+3|Sap	|1 Acid Fragment	|Xaerdun	|20	|40
+4|Bestill	|1 Shock Fragment	|Xaerdun	|20	|40
+5|Slow	|2 Cold Fragments	|Xaerdun	|15|	50
+5|Unhallowed Runes	|Passive	|Xaerdun	|13	|66
+6|Blood Runes	|uses health	|Xaerdun	|10	|99
 
 ### Potion of Forgetfulness
 Each Witchery trainer sells a potion of forgetfulness that will remove the opposing alignment's spells. Iwodach and Nequzon counter each other, Xaerdun and Ventdal do the same.
